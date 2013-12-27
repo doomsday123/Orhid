@@ -9,8 +9,5 @@
 
 Галерея ореинтированна на фото болього разрешения. Если фото относительно малое советую покрутить колесо мышки над картинкой.
 
-<a href="https://github.com/dassader/Orhid/issues/1">Комментарии</a>
+<a href="https://github.com/dassader/Orhid/issues/1" style="color: red">Комментарии</a>
 
-<script>
-alert(1);
-</script>
